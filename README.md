@@ -10,7 +10,7 @@ I’m **Tunjay Akbarli**, also known as **Hekimoghlu**, a self-taught technologi
 
 - Born on January 5, 2010 🇦🇿 and raised by a love for machines, I wrote my first lines of code at **age 8**.
 - At **8**, I founded my first **computer club**, which became a **startup at 11**.
-- By **10**, I was developing tools, reverse-engineering binaries, and understanding systems deeper than most adults.
+- Since 2018,  I was developing tools, reverse-engineering binaries, and understanding systems deeper than most adults.
 - Now, I'm building a platform that makes traditional workflows, tools, and roles feel obsolete.
 
 > I don’t just write code — I design ecosystems, create languages, and redefine how humans interact with technology.
