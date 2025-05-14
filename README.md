@@ -29,8 +29,6 @@ Key Modules:
 📌 Everything is unified. Everything is automated.  
 📌 All AI-native. All customizable. All in one dashboard.
 
-> Think of it as Stripe + Notion + Vercel + Figma + ChatGPT + Atlassian — but rebuilt from scratch, by a teenager.
-
 ---
 
 ## 📚 Currently Exploring
