@@ -15,6 +15,9 @@ I’m **Tunjay Akbarli**, also known as **Hekimoghlu**, a self-taught technologi
 
 > I don’t just write code — I design ecosystems, create languages, and redefine how humans interact with technology.
 
+> _“My age is a number. My work is a timeline disruptor.”_  
+> — Tunjay Akbarli
+
 ---
 
 ## 🔭 What I'm Building
