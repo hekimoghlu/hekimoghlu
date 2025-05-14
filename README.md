@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Tunjay "Hekimoghlu" Akbarli
 
-### 🧠 Teenage Founder · All-in-one Architect · Former Gray Hat Hacker · Proud to be an Azerbaijani 🇦🇿
+### 🧠 Teenage Founder · All-in-one Architect · Former Gray Hat Hacker · Proud to be an Azerbaijani
 
 ---
 
@@ -8,7 +8,7 @@
 
 I’m **Tunjay Akbarli**, also known as **Hekimoghlu**, a self-taught technologist and founder of **NeXTHub**, a next-generation ecosystem unifying everything into one powerful platform.
 
-- Born on January 5, 2010 🇦🇿 and raised by a love for machines, I wrote my first lines of code at **age 8**.
+- Born on January 5, 2010 in Baku, Azerbaijan and raised by a love for machines, I wrote my first lines of code at **age 8**.
 - At **8**, I founded my first **computer club**, which became a **startup at 11**.
 - Since 2018,  I was developing tools, reverse-engineering binaries, and understanding systems deeper than most adults.
 - Now, I'm building a platform that makes traditional workflows, tools, and roles feel obsolete.
@@ -36,7 +36,7 @@ Key Modules:
 - 🔬 **Quantum Computing** and how it will disrupt classical logic-based systems
 - 🧬 **Compiler design**, LLVM/Clang interoperability, and domain-specific languages
 - 🌐 **Distributed Systems**, real-time infra, and edge computing
-- 🧠 The fusion of **AI + IDEs + DevOps** into a seamless programming experience
+- 🧠 The fusion of **AI + IDEs + DevOps + Languages** into a seamless programming experience
 - 🧭 Leadership, startup dynamics, and system thinking at scale
 
 ---
@@ -46,7 +46,7 @@ Key Modules:
 - Visionary projects that push the boundaries of tech  
 - Open-source dev tools, cloud infra, or AI agents  
 - High-impact educational or governmental transformations  
-- Ecosystem integration with NeXTHub modules
+- Ecosystem integration with NeXTHub modules (coming soon)
 
 > If you’re building for the next decade — not the last — let’s talk.
 
