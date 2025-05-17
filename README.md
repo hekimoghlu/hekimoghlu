@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Tunjay "Hekimoghlu" Akbarli
+# 🫡 Reporting in: Tunjay "Hekimoghlu" Akbarli
 
 ### 🧠 Teenage Founder · All-in-one Architect · Former Gray Hat Hacker · Proud to be an Azerbaijani
 
