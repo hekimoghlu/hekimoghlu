@@ -1,6 +1,6 @@
 # 🫡 Reporting in: Tunjay "Hekimoghlu" Akbarli
 
-### 🧠 Teenage Founder · All-in-one Architect · Former Gray Hat Hacker · Proud to be an Azerbaijani
+### 🧠 Teenage Founder · Former Gray Hat Hacker · Proud to be an Azerbaijani
 
 ---
 
