@@ -27,7 +27,7 @@ I’m **Tunjay Akbarli**, also known as **Hekimoghlu**, a self-taught technologi
 As of August of 2024, this project is under top-secret development.
 
 Key Modules:
-- **NeXTCode**: Next-gen programming language & First programming language of 🇦🇿
+- **Codira**: Next-gen programming language & First programming language of 🇦🇿
 
 📌 Everything is unified. Everything is automated.  
 📌 All AI-native. All customizable. All in one dashboard.
