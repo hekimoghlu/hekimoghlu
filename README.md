@@ -22,7 +22,7 @@ I’m **Tunjay Akbarli**, also known as **Hekimoghlu**, a self-taught technologi
 
 ## 🔭 What I'm Building
 
-### **NeXTHub: The Unified Business Ecosystem**
+### **Omnira: The Unified Business Ecosystem**
 
 As of August of 2024, this project is under top-secret development.
 
