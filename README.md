@@ -6,7 +6,7 @@
 
 ## 🚀 Who am I?
 
-I’m **Tunjay Akbarli**, also known as **Hekimoghlu**, a self-taught technologist and founder of **NeXTHub**, a next-generation ecosystem unifying everything into one powerful platform.
+I’m **Tunjay Akbarli**, also known as **Hekimoghlu**, a self-taught technologist and founder of **Omnira**, a next-generation ecosystem unifying everything into one powerful platform.
 
 - Born on January 5, 2010 in Baku, Azerbaijan and raised by a love for machines, I wrote my first lines of code at **age 8**.
 - At **8**, I founded my first **computer club**, which became a **startup at 11**.
