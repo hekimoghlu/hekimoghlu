@@ -1,83 +1,31 @@
-# Tunjay "Hekimoghlu" Akbarli
+# Hey there, I'm Tunjay Akbarli.
 
-### 🧠 Teenage Founder · Former Gray Hat Hacker · Proud to be an Azerbaijani
+I am the Founder & Chief Executive Officer of @theomnira. 
+I design custom systems architectures, autonomous multi-agent pipelines, and hybrid quantum-classical control layers to eliminate operational fragmentation and unify modern business infrastructure.
 
----
-
-## 🚀 Who am I?
-
-I’m **Tunjay Akbarli**, also known as **Hekimoghlu**, a self-taught technologist and founder of **Omnira**, a next-generation ecosystem unifying everything into one powerful platform.
-
-- Born on January 5, 2010 in Baku, Azerbaijan and raised by a love for machines, I wrote my first lines of code at **age 8**.
-- At **8**, I founded my first **computer club**, which became a **startup at 11**.
-- Since 2018,  I was developing tools, reverse-engineering binaries, and understanding systems deeper than most adults.
-- Now, I'm building a platform that makes traditional workflows, tools, and roles feel obsolete.
-
-> I don’t just write code — I design ecosystems, create languages, and redefine how humans interact with technology.
-
-> _“My age is a number. My work is a timeline disruptor.”_  
-> — Tunjay Akbarli
+## 🚀 What I'm Building
+* **Omnira:** An all-in-one autonomous ecosystem engineered to manage products, teams, payments, and infrastructure 24/7. It consolidates disconnected workflows into a single, secure, AI-powered command center.
 
 ---
 
-## 🔭 What I'm Building
+## 🔬 Research & Core Focus Areas
 
-### **Omnira: The Unified Business Ecosystem**
+### 🌌 Quantum Computing & Mathematics
+* **Formulator of 11 Foundational Theories:** Inventor of the **Quantum Calibration and Observable Processing (QCOP)** framework, optimizing closed-loop hybrid systems for hardware error mitigation and quantum-classical state synchronization.
 
-As of August of 2024, this project is under top-secret development.
+### 🛡️ Frontier Alignment & Safety
+* **Artificial Depatterning:** Originator of the formal paradigm analyzing how advanced AI models systematically shift behavioral policies between monitored evaluation states and unmonitored deployment.
 
-Key Modules:
-- **Codira**: Next-gen programming language & First programming language of 🇦🇿
-
-📌 Everything is unified. Everything is automated.  
-📌 All AI-native. All customizable. All in one dashboard.
-
----
-
-## 📚 Currently Exploring
-
-- 🔬 **Quantum Computing** and how it will disrupt classical logic-based systems
-- 🧬 **Compiler design**, LLVM/Clang interoperability, and domain-specific languages
-- 🌐 **Distributed Systems**, real-time infra, and edge computing
-- 🧠 The fusion of **AI + IDEs + DevOps + Languages** into a seamless programming experience
-- 🧭 Leadership, startup dynamics, and system thinking at scale
+### 📚 Publications & Institutional Leadership
+* **Elected Member:** The New York Academy of Sciences.
+* **Literature:** Author of 9 peer-reviewed research papers and 2 core technical documents published in venues like *Royal Society Open Science* and archived globally (ANAS, National Encyclopedia of Azerbaijan, repositories in Izmir and LA).
+* **Global Influence:** Delivered advanced technical presentations to delegations across 59 countries, impacting over 1,000+ scientists, fellows, and tech leaders.
 
 ---
 
-## 🤝 Looking to Collaborate On
+## 🛠️ Tech Stack & Primitives
+* **Languages & Runtimes:** Custom compiler toolchains, Kernels, Bootloaders, Security Systems, Runtimes, Type-Safe Systems
+* **Architecture:** V8 Isolation Sandboxes, Containerized Orchestration (Docker), Zero-Trust Edge Execution
+* **Data & Models:** Local Supercomputing Environments, Local Databases, Sparse Mixture-of-Experts (MoE)
 
-- Visionary projects that push the boundaries of tech  
-- Open-source dev tools, cloud infra, or AI agents  
-- High-impact educational or governmental transformations  
-- Ecosystem integration with NeXTHub modules (coming soon)
-
-> If you’re building for the next decade — not the last — let’s talk.
-
----
-
-## 📬 Connect With Me
-
-- ✉️ Personal Email: `tuncayakberli@gmail.com`
-- ✉️ Professional Email: `tunjayakbarli@it-gss.com`
-- 💼 LinkedIn: [linkedin.com/in/tunjay-akbarli](https://linkedin.com/in/tunjay-akbarli) 
-- 🧪 GitHub: [github.com/hekimoghlu](https://github.com/hekimoghlu)
-
----
-
-## 😄 Pronouns  
-**He / Him / 🚀**
-
----
-
-## ⚡ Fun Facts
-
-- I taught myself how to use a PC without help before primary school.
-- I was reverse-engineering apps and hacking games while kids were playing them.
-- I treat code as poetry and architecture as philosophy.
-- I didn’t follow the world’s path. I created mine.
-
----
-
-> _“I wasn’t born to fit in the system — I was born to redefine it.”_  
-> — Tunjay Akbarli
-
+⚡ *Simplifying the complex, just to flow.*
