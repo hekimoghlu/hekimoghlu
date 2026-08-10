@@ -19,7 +19,7 @@ I design custom systems architectures, autonomous multi-agent pipelines, and hyb
 
 ### 📚 Publications & Institutional Leadership
 * **Elected Member:** The New York Academy of Sciences.
-* **Literature:** Author of 14 peer-reviewed research papers and 2 core technical documents published in venues like *Royal Society Open Science* and archived globally (ANAS, National Encyclopedia of Azerbaijan, repositories in Izmir and LA).
+* **Literature:** Author of 14 peer-reviewed research papers and 2 core technical documents published in venues like *Royal Society Open Science* and archived globally (ANAS, National Encyclopedia of Azerbaijan, repositories in Izmir, FL and LA).
 * **Global Influence:** Delivered advanced technical presentations to delegations across 59 countries, impacting over 1,000+ scientists, fellows, and tech leaders.
 
 ---
