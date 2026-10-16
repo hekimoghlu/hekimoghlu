@@ -13,7 +13,7 @@ I design custom systems architectures, autonomous multi-agent pipelines, and hyb
 ### 🌌 Quantum Computing & Mathematics
 * **Formulator of 18 Foundational Theories:** Inventor of the **Quantum Calibration and Observable Processing (QCOP)** framework, optimizing closed-loop hybrid systems for hardware error mitigation and quantum-classical state synchronization.
 * **Autonomous Self-Healing Theory**: Formulated three fundamental theorems—Healing Preservation, Adaptive Convergence, and Distributed Coherence—proving the type-safety, Bayesian strategy convergence, and linearizability of autonomous program fault recovery.
-* **Artificial Peripheral Thalamus**: A fourteen-module multi-scale model, built only from public data, that specifies what the device must do — and what it cannot be expected to achieve.
+* **Artificial Peripheral Thalamus**: Author of the fourteen-module multi-scale cybernetic neuromorphic framework modelling the stroke continuum, closed-loop sensory feedback, and neuromorphic relay devices.
 
 ### 🛡️ Frontier Alignment & Safety
 * **Artificial Depatterning:** Originator of the formal paradigm analyzing how advanced AI models systematically shift behavioral policies between monitored evaluation states and unmonitored deployment.
