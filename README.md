@@ -1,6 +1,6 @@
 # Hey there, I'm Tunjay Akbarli.
 
-I'm the Founder and Chief Executive Officer of **Omnira** ([@theomnira]) and an independent researcher and systems architect based in Baku, Azerbaijan. My work sits where three areas meet: autonomous business infrastructure, compiler and language design, and hybrid quantum-classical control. The thread running through all of it is the question of how to make complex machines legible, verifiable, and changeable without losing their power.
+I'm the Founder and Chief Executive Officer of **Omnira** ([@theomnira]) and an independent researcher and systems architect based in Meggen, Switzerland. My work sits where three areas meet: autonomous business infrastructure, compiler and language design, and hybrid quantum-classical control. The thread running through all of it is the question of how to make complex machines legible, verifiable, and changeable without losing their power.
 
 ---
 
