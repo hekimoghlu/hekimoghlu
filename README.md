@@ -13,7 +13,7 @@ I'm the Founder and Chief Executive Officer of **Omnira** ([@theomnira]) and an 
   * **Live evolution:** A running program can change its code and data layouts without dropping state. Fields can be retyped with saturating conversions, bindings can be renamed through migration annotations, and the whole runtime heap can be snapshotted and restored.
   * **One source, many machines:** The same program can target CPUs, GPUs through NVIDIA PTX, WebAssembly, and quantum processors through QIR and OpenQASM 2.0.
 
-* **Neurosymbolic Execution and Understanding System (v2.0):** An architecture that targets the *frozen weight problem*. Most AI systems store facts, reasoning habits, and stylistic tendencies in one opaque parameter matrix, which makes them hard to inspect, correct, audit, or extend. The system separates these concerns into distinct layers with formally specified interfaces.
+* **Neurosymbolic Execution and Understanding System:** An architecture that targets the *frozen weight problem*. Most AI systems store facts, reasoning habits, and stylistic tendencies in one opaque parameter matrix, which makes them hard to inspect, correct, audit, or extend. The system separates these concerns into distinct layers with formally specified interfaces.
 
 ---
 
