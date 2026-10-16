@@ -74,7 +74,7 @@ The independence assumption is stated, not hidden. Where sources are correlated,
 
 ## 📐 Theoretical Foundations
 
-The Neurosymbolic Execution and Understanding System v2.0 specification establishes the limits that justify this design:
+The Neurosymbolic Execution and Understanding System specification establishes the limits that justify this design:
 
 * **Weight opacity (Theorem 3.1):** Recovering a specific fact from trained parameters is not computable in polynomial time in general, and no closed form exists. Interpretability methods can locate fragments of a fact, but they do not provide a reliable inverse mapping. The fact has no stable address inside the weights.
 * **Metadata destruction (Corollary 3.1a):** Under standard loss functions, provenance, confidence, timestamps, and expiry fields contribute zero gradient signal. Training therefore discards them irreversibly. Better training cannot recover them, because the objective never asked for them.
