@@ -62,7 +62,7 @@ The independence assumption is stated, not hidden. Where sources are correlated,
 * **Semantic versioning of the knowledge graph:** The version number encodes the kind of change. A **MAJOR** increment marks a retraction or breaking change that invalidates dependent derivations. A **MINOR** increment marks additions. A **PATCH** increment marks metadata or confidence updates. Downstream consumers can therefore decide mechanically whether they need to re-derive.
 * **Tiered storage:** Hot memory holds cached query results. Warm storage holds active domain knowledge in indexed form. Cold storage uses columnar Apache Parquet files for bulk data and RDF graphs for linked, standards-compatible exchange.
 
-### Layer W: Weight Editing Layer
+### Layer 4: Weight Editing Layer
 
 **Role:** Some knowledge does not reduce cleanly to symbolic rules. Stylistic preferences, syntactic habits, and fine-grained associations are examples. This layer handles those cases by treating neural weights as software memory that can be patched and rolled back.
 
@@ -140,7 +140,7 @@ $$\text{CBF}_{\text{crit}} = \frac{\text{oxygen demand}}{\text{arterial oxygen c
 ## 📚 Publications & Leadership
 
 * **Elected Member:** The New York Academy of Sciences.
-* **Peer-reviewed research:** Papers in the *Journal of Neural Engineering*, *Royal Society Open Science*, and *Quantum Science and Technology*, plus archived technical documents in the National Encyclopedia of Azerbaijan, the Azerbaijan National Academy of Sciences, and repositories in Izmir, Florida, and Louisiana.
+* **Peer-reviewed research:** Papers and reviews in the *Journal of Neural Engineering*, *Royal Society Open Science*, and *Quantum Science and Technology*, plus archived technical documents in the National Encyclopedia of Azerbaijan, the Azerbaijan National Academy of Sciences, and repositories in Izmir, Florida, and Louisiana.
 * **Global reach:** Technical presentations delivered to delegations from 59 countries, reaching over 1,000 scientists, fellows, and engineers across six countries.
 
 ---
